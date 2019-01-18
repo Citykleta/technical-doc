@@ -22,7 +22,7 @@ If we use the geometry property (*way*) we could draw this database row.
 
 For example, drawing all the lines from the database gives us roughly the network of roads and path of the area.
 
-![osm-planet_line drawn]('../media/drawn-image.png')
+![osm-planet_line drawn](../media/drawn-image.png)
 
 A drawing software such [Mapnik](https://wiki.openstreetmap.org/wiki/Mapnik) will use this data and style instructions to generate images that can be then served with a regular file server
 offering all the benefits of dealing with static files (cache, CDN distribution, etc).
