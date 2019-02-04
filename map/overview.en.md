@@ -40,6 +40,7 @@ a graph based on the network of roads and the locomotion way used by the user. T
 order to calculate an optimized itinerary.
 
 A routing machine can involve advanced mathematics and therefore open source routing machine exist so tiers web service do.
+Algorithms used often refer to the [Saleman travel problem]()
 
 ## Geo encoding API
 
@@ -58,7 +59,7 @@ Plenty of third party services or open sources projects can be found in the Open
 However I think managing all these components on our own would be an extra overhead and troublesome considering our budget and the human resources we have at our disposition.
 Moreover some area of the problems are more or less complicated and although quite interesting, it would be a waste of time to try to reinvent the wheel and try to solve on our own problems already more or less solved.
 
-*I believe we can start with a third party service (or various third party services) first and maybe change it later for our own implementation or server instances if we find out that it would be more cost efficient.**
+**I believe we can start with a third party service (or various third party services) first and maybe change it later for our own implementation or server instances if we find out that it would be more cost efficient.**
 
 ### Mapbox
 
